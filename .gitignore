@@ -1,0 +1,38 @@
+# Virtual Environment
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Data Files (optional)
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.json
+
+# Logs
+*.log
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Tableau Temporary Files
+*.twb~
+*.temp
+
+# Environment Variables
+.env
